@@ -1,6 +1,6 @@
 *Neden sen de Youtuber değilsin?*
 
-Bu repository'de geçtiğimiz 1.5 sene içerisinde Youtube'da nasıl 75.000+ abone, 2.2 milyon+ izlenme ve $1000 gelire ulaştığımı dökümante etmek istiyorum. Kanalımın linki:
+Bu repository'de geçtiğimiz 1.5 sene içerisinde Youtube'da nasıl 75.000+ abone, 2.4 milyon+ izlenme ve $1000 gelire ulaştığımı dökümante etmek istiyorum. Kanalımın linki:
 https://www.youtube.com/c/SelmanKahya/
 
 ### Dökümanlar
